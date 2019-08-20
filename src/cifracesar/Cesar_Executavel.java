@@ -257,7 +257,7 @@ public class Cesar_Executavel extends javax.swing.JFrame {
 
     private void jMenu2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jMenu2MouseClicked
         JOptionPane.showMessageDialog(rootPane, "Codificador e Decodificador de cifra de Cesar\n\n"
-                + "Autor: Saulo George Porto de Carvalho - 5° ADS");
+                + "Autor: Saulo George Porto de Carv - 5° ADS");
     }//GEN-LAST:event_jMenu2MouseClicked
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
